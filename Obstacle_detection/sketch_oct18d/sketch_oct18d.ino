@@ -1,4 +1,4 @@
-const int irSensorPin = 2; // Define the Arduino pin connected to the IR sensor
+const int irSensorPin = 7; // Define the Arduino pin connected to the IR sensor
 int obstacleDetected = 0; // Variable to store detection status (0 or 1)
 
 void setup(){
