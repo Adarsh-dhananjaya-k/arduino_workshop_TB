@@ -36,3 +36,11 @@ Once you have the Arduino IDE and CH340 driver installed, you'll be ready to sta
 
 For any additional information or troubleshooting, please refer to the [Arduino documentation](https://www.arduino.cc/en/Main/Documentation) and [Arduino Community](https://forum.arduino.cc/) for support.
 
+
+
+# main program's for workshop
+1.External-led :External LED/sketch_oct18b
+
+
+
+
