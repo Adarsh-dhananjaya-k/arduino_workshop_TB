@@ -19,9 +19,8 @@ To make the connections and set up the environment for the code you provided, wh
    - Connect one terminal of the button to digital pin 2 on the Arduino.
    - Connect the other terminal of the button to one side of a pull-down resistor (around 10k ohms).
    - Connect the other side of the pull-down resistor to Ground (GND) on the Arduino.
-   - Connect the cathode (shorter leg) of the LED to a current-limiting resistor (around 220-330 ohms).
-   - Connect the other end of the resistor to digital pin 11 on the Arduino.
-   - Connect the anode (longer leg) of the LED directly to 5V on the Arduino.
+   - Connect the cathode (shorter leg) of the LED to digital pin 11 on the Arduino.
+   - Connect the anode (longer leg) of the LED directly to Gnd V on the Arduino.
 
 **Step 3: Upload the Code**
 
