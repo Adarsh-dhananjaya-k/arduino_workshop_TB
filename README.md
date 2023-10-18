@@ -44,7 +44,7 @@ For additional information and troubleshooting, refer to the [Arduino documentat
 
 Explore the core programs for your workshop:
 
-1. **External LED**: Access the code in the 'External LED' folder [here](https://github.com/Adarsh-dhananjaya-k/arduino_workshop_TB/blob/85ce57d7b29335b88d277a39828eac39ff21bc2b/External%20LED/sketch_oct18b).
+1. **External LED**: Access the code in the 'External LED' folder [here](https://github.com/Adarsh-dhananjaya-k/arduino_workshop_TB/tree/2e4246b2d15c3cfd2b7713580d8a5bec4c807e45/External%20LED/sketch_oct18b).
 
 2. **Push Button**: Find the code in the 'Push Button' folder [here](https://github.com/Adarsh-dhananjaya-k/arduino_workshop_TB/tree/85ce57d7b29335b88d277a39828eac39ff21bc2b/Push_button%20).
 
