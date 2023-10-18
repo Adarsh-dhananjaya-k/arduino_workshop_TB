@@ -36,7 +36,8 @@ Ensure you follow the instructions provided on the CH340 driver download page fo
 
 With the Arduino IDE and CH340 driver in place, you're all set to dive into the world of Arduino and begin your creative projects. Happy coding!
 
-For additional information and troubleshooting, refer to the [Arduino documentation](https://www.arduino.cc/en/Main/Documentation) and seek support from the [Arduino Community](https://forum.arduino.cc/).
+For additional information and troubleshooting, call guide
+
 
 ---
 
