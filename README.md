@@ -46,8 +46,8 @@ Explore the core programs for your workshop:
 
 1. **External LED**: Access the code in the 'External LED' folder [here](https://github.com/Adarsh-dhananjaya-k/arduino_workshop_TB/tree/2e4246b2d15c3cfd2b7713580d8a5bec4c807e45/External%20LED/sketch_oct18b).
 
-2. **Push Button**: Find the code in the 'Push Button' folder [here](https://github.com/Adarsh-dhananjaya-k/arduino_workshop_TB/tree/85ce57d7b29335b88d277a39828eac39ff21bc2b/Push_button%20).
+2. **Push Button**: Find the code in the 'Push Button' folder [here](https://github.com/Adarsh-dhananjaya-k/arduino_workshop_TB/tree/f3a161a1408fad912fe794113ea45309a3d52177/Push_button%20/sketch_oct18c).
 
-3. **Obstacle Detection**: Discover the code in the 'Obstacle Detection' folder [here](https://github.com/Adarsh-dhananjaya-k/arduino_workshop_TB/blob/85ce57d7b29335b88d277a39828eac39ff21bc2b/Obstacle_detection/sketch_oct18d).
+3. **Obstacle Detection**: Discover the code in the 'Obstacle Detection' folder [here](https://github.com/Adarsh-dhananjaya-k/arduino_workshop_TB/tree/2e4246b2d15c3cfd2b7713580d8a5bec4c807e45/Obstacle_detection/sketch_oct18d).
 
 Enjoy your exploration and experimentation with these programs!
